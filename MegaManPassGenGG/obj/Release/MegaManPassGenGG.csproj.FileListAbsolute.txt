@@ -1,0 +1,10 @@
+C:\workspace_sandbox\MegaManPassGenGG\MegaManPassGenGG\bin\Release\MegaManPassGenGG.exe.config
+C:\workspace_sandbox\MegaManPassGenGG\MegaManPassGenGG\bin\Release\MegaManPassGenGG.exe
+C:\workspace_sandbox\MegaManPassGenGG\MegaManPassGenGG\bin\Release\MegaManPassGenGG.pdb
+C:\workspace_sandbox\MegaManPassGenGG\MegaManPassGenGG\obj\Release\MegaManPassGenGG.csprojAssemblyReference.cache
+C:\workspace_sandbox\MegaManPassGenGG\MegaManPassGenGG\obj\Release\MegaManPassGenGG.FormMegaManPassGenGG.resources
+C:\workspace_sandbox\MegaManPassGenGG\MegaManPassGenGG\obj\Release\MegaManPassGenGG.Properties.Resources.resources
+C:\workspace_sandbox\MegaManPassGenGG\MegaManPassGenGG\obj\Release\MegaManPassGenGG.csproj.GenerateResource.cache
+C:\workspace_sandbox\MegaManPassGenGG\MegaManPassGenGG\obj\Release\MegaManPassGenGG.csproj.CoreCompileInputs.cache
+C:\workspace_sandbox\MegaManPassGenGG\MegaManPassGenGG\obj\Release\MegaManPassGenGG.exe
+C:\workspace_sandbox\MegaManPassGenGG\MegaManPassGenGG\obj\Release\MegaManPassGenGG.pdb
